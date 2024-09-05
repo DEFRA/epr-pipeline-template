@@ -1,0 +1,6 @@
+variables:
+  azureSubscription: 'AZR-RWD-PRE1'
+  docker.imageName: ''      # Example 'epranyimagename' same name as in development -- Remove this comment
+  acr.azureContainerRegistryName: 'prerwdinfac1401'
+  acr.repositoryName: ''    # Example 'epranyimagenamerepository' same name as in development -- Remove this comment
+  serviceName: ''           # Example 'PRERWDWEBFA1410', this service name will always have a 1 after the letter A -- Remove this comment
